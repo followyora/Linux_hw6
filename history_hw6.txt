@@ -1,0 +1,12 @@
+   0 ls 
+   1 ls -l
+   2 mkdir blablabla
+   3 touch blablabla
+   4 touch chao
+   5 nano script.sh
+   6 chmod u+x script.sh 
+   7 ls -l
+   8 ./script.sh 
+   9 history > history_hw
+  10 export history_hw 
+  11 history > history_hw6.txt
